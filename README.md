@@ -1,5 +1,5 @@
 <h2 align=center> Hi there, I'm Bohdan 👋</h2>
-<h4 align=center>Beggining Web-Developer</h4>
+<h4 align=center> Begginer Web Developer</h4>
 <h4 align=center>v Contact me via <a href="https://telegram.org/">Telegram</a> v </h4> <div align=center><img src="http://www.vectorico.com/download/social_media/Telegram-Icon.png" width=25 height=25 alt='telegram' align=top> @lnn0q<div>  
 <h4 align=center> Tools and languages I'm familiar with </h4>
   <p>
