@@ -1,7 +1,7 @@
 <h2 align=center> Hi there, I'm Bohdan 👋</h2>
 <p align=center> <b>I'm a self-taught programmer and beginner Web Developer!</b> </p>
 
-<p align=center> Contact me via <a href="https:/ф/t.me/lnn0q">Telegram</a> </p> 
+<p align=center> Contact me via <a href="https://t.me/lnn0q">Telegram</a> </p> 
 <div align=center><img src="http://www.vectorico.com/download/social_media/Telegram-Icon.png" width=25 height=25 alt='telegram' align=top> @lnn0q</div>
 
 <h2 align=center> Tools and languages I'm familiar with </h2>
