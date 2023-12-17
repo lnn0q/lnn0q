@@ -1,4 +1,4 @@
-![image](https://github.com/lnn0q/lnn0q/assets/40203084/976b0257-0c1a-4347-8ce4-00b8ee05f814)<h2 align=center> Hi there, I'm Bohdan 👋</h2>
+<h2 align=center> Hi there, I'm Bohdan 👋</h2>
 <p align=center> <b>I'm a self-taught programmer and beginner Web Developer!</b> </p>
 
 <p align=center> Contact me via <a href="https://t.me/lnn0q">Telegram</a> </p> 
@@ -6,12 +6,12 @@
 
 <h2 align=center> Tools and languages I'm familiar with </h2>
   <p>
-    <div align=center><img src="https://www.iconfinder.com/icons/286244/html_source_text_icon" alt='HTML' title='HTML' width=50 height=50>
+    <div align=center><img src="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt='HTML' title='HTML' width=50 height=50>
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn1.iconfinder.com%2Fdata%2Ficons%2Flogotypes%2F32%2Fbadge-css-3-512.png&f=1&nofb=1&ipt=cf5f782d09f6dfb5a8a7f27ab558a9e98e63b8d283f903a7bc564bbf9e524405&ipo=images" alt='CSS' title='CSS' width=50 height=50>  
-    <img src="https://favpng.com/png_view/javascript-icon-png/XcfV8Zca" alt='JS' title='JS' width=50 height=50>
+    <img src="https://2ality.com/2011/10/logo-js/js.jpg" alt='JS' title='JS' width=50 height=50>
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem-700x626.png&f=1&nofb=1&ipt=b786e23a336411ab4625defdcee56fc4829f042e9489c15e9f6ba5d26012fe55&ipo=images" alt='ReactJS' title='ReactJS' width=55 height=50></div>
     <div align=center>
-    <img src="https://pluspng.com/nodejs-png-6047.html" alt='NodeJS' title='NodeJS' width=90 height=50>
+    <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt='NodeJS' title='NodeJS' width=50 height=50>
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F6132%2F6132222.png&f=1&nofb=1&ipt=7b75f73326672d2550909fee4103435174ecdba545b737d247c334b42ca1f5bb&ipo=images" alt='C++' title='C++' width=50 height=50>
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficonape.com%2Fwp-content%2Fpng_logo_vector%2Fc.png&f=1&nofb=1&ipt=73a4eab72f45c0c21fae494751bb22df701ebeb6423db846e75e807644cdff83&ipo=images" alt='C#' title='C#' width=50 height=50>
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Ftinkercademy.com%2Fwp-content%2Fuploads%2F2018%2F04%2Fpython-icon.png%3Fssl%3D1&f=1&nofb=1&ipt=a0765a98ed6443e79a8be2e8e540f32d708992b9a4057b232d5494509deb71d0&ipo=images" alt='Python' title='Python' width=50 height=50></div>
