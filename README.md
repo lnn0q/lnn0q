@@ -12,6 +12,7 @@
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Flogos-download.com%2Fwp-content%2Fuploads%2F2016%2F09%2FReact_logo_logotype_emblem-700x626.png&f=1&nofb=1&ipt=b786e23a336411ab4625defdcee56fc4829f042e9489c15e9f6ba5d26012fe55&ipo=images" alt='ReactJS' title='ReactJS' width=55 height=50></div>
     <div align=center>
     <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt='NodeJS' title='NodeJS' width=50 height=50>
+    <img src="https://cc-mnnit.github.io/2021-22-Classes/Freshers/C/C_logo.png" alt='C' title='C' width=45 height=50>  
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn-icons-png.flaticon.com%2F512%2F6132%2F6132222.png&f=1&nofb=1&ipt=7b75f73326672d2550909fee4103435174ecdba545b737d247c334b42ca1f5bb&ipo=images" alt='C++' title='C++' width=50 height=50>
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ficonape.com%2Fwp-content%2Fpng_logo_vector%2Fc.png&f=1&nofb=1&ipt=73a4eab72f45c0c21fae494751bb22df701ebeb6423db846e75e807644cdff83&ipo=images" alt='C#' title='C#' width=50 height=50>
     <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi0.wp.com%2Ftinkercademy.com%2Fwp-content%2Fuploads%2F2018%2F04%2Fpython-icon.png%3Fssl%3D1&f=1&nofb=1&ipt=a0765a98ed6443e79a8be2e8e540f32d708992b9a4057b232d5494509deb71d0&ipo=images" alt='Python' title='Python' width=50 height=50></div>
