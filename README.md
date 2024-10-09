@@ -3,7 +3,7 @@
 
 <p align=center> My portfolio <a href="https://n0q.dev/">n0q.dev</a> </p> 
 <p align=center> Contact me via <a href="https://t.me/lnn0q">Telegram</a> </p> 
-<div align=center><img src="https://www.vectorico.com/wp-content/uploads/2019/02/Telegram-Icon-300x300.png" width=25 height=25 alt='telegram' title='Telegram' align=top> @lnn0q</div>
+<div align=center><img src="https://n0q.dev/icons/telegram.svg" width=25 height=25 alt='telegram' title='Telegram' align=top> @lnn0q</div>
 
 <h2 align=center> Tools and languages I'm familiar with </h2>
 <p align="center">
