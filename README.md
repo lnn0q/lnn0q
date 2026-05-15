@@ -1,7 +1,6 @@
 <h2 align=center> Hi there, I'm Bohdan 👋</h2>
 <p align=center> <b>I'm Software Developer!</b> </p>
 
-<p align=center> My portfolio website - <a href="https://n0q.dev/">n0q.dev</a> </p> 
 <p align=center> Contact me via <a href="mailto:denysenko.w0@gmail.com">mail</a>!</p>
 <p align=center> Or <a href="https://t.me/lnn0q">Telegram</a>!</p>
 <div align=center><img src="https://n0q.dev/icons/telegram.svg" width=25 height=25 alt='telegram' title='Telegram' align=top> @lnn0q</div>
